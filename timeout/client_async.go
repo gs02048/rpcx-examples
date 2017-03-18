@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
 	"time"
 
+	"github.com/lunny/log"
 	"github.com/smallnest/rpcx"
 )
 

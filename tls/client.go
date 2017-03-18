@@ -2,9 +2,9 @@ package main
 
 import (
 	"crypto/tls"
-	"fmt"
 	"time"
 
+	"github.com/lunny/log"
 	"github.com/smallnest/rpcx"
 )
 

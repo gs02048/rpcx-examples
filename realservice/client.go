@@ -2,11 +2,11 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"time"
 
 	"gopkg.in/mgo.v2/bson"
 
+	"github.com/lunny/log"
 	"github.com/smallnest/rpcx"
 )
 
